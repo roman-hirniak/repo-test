@@ -1,5 +1,5 @@
-print ("Hello, World);
-print ("Hello for everybody");
-print ("new hello");
-print ("hello for everyone");
-print ("hello my dear friend");
+print ("Hello, World;);
+print ("Hello for everybody;");
+print ("new hello;");
+print ("hello for everyone;");
+print ("hello my dear friend;");
